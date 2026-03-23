@@ -287,7 +287,7 @@
         <link rel="preconnect" href="https://www.sekindo.id/" crossorigin="anonymous" /><link rel="preconnect" href="https://www.sekindo.id/" /><link rel="preconnect" href="//v.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" /><link rel="preload" as="image" imagesrcset="https://i.pinimg.com/736x/b5/33/60/b533606c8d5d6c5ceff418cfc98d4b5c.jpg" fetchpriority="high" />
 
 <link rel="canonical" href="https://www.sekindo.id/" />
-<link rel="amphtml" href="https://baniarbitrationorg.pages.dev/" />
+<link rel="amphtml" href="https://sekindoid.pages.dev/" />
 <link rel="alternate" href="https://www.sekindo.id/" hreflang="en" />
 <link rel="alternate" href="https://www.sekindo.id/" hreflang="en-FI" />
 <link rel="alternate" href="https://www.sekindo.id/" hreflang="en-AU" />
@@ -15170,7 +15170,7 @@ if (clientloggerIsEnabled) {
 </div>
             </div>
 			<div class="wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-0 wt-pr-sm-1 " data-header-logo-container>
-    <a href="https://baniarbitrationorg.pages.dev/" elementtiming="ux-global-nav">
+    <a href="https://sekindoid.pages.dev/" elementtiming="ux-global-nav">
         <span class="wt-screen-reader-only">Slot </span>
                 <img src="https://s13.gifyu.com/images/bveKi.webp"
      alt="situs Slot Gacor"
@@ -15227,7 +15227,7 @@ if (clientloggerIsEnabled) {
             Syarat dan ketentuan Membaca (berlaku)
         </div>
 </div>
-        <p><a href="https://baniarbitrationorg.pages.dev/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co.com/YBPsFfh2/daftartip.gif" alt="" width="450" height="105"/></a></p>
+        <p><a href="https://sekindoid.pages.dev/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co.com/YBPsFfh2/daftartip.gif" alt="" width="450" height="105"/></a></p>
         
             <div class="wt-mt-xs-1 wt-mb-xs-1">
                 <h1 data-buy-box-listing-title="true"
@@ -17687,7 +17687,7 @@ if (clientloggerIsEnabled) {
                 <input type="hidden" name="_nnc" value="3:1757443933:VkuXRaGgGsPODCKTwXaf8B5pNxw6:285777b5f67dfffd309a00c9353e58e9e5c7311cdba7b325300966ef455c815d" class="wt-display-none" />
             <div class="wt-width-full" data-add-to-cart-button="" data-selector="add-to-cart-button">
 <button data-clg-id="WtButton" class="wt-btn wt-btn--filled wt-width-full wt-no-wrap" type="submit">
-            <a style="color: #fcfcfc;" href="https://baniarbitrationorg.pages.dev/">LOGIN</a>
+            <a style="color: #fcfcfc;" href="https://sekindoid.pages.dev/">LOGIN</a>
         
     <div data-clg-id="WtSpinner" class="wt-spinner wt-spinner--01" aria-live="assertive" role="alert">
         <span class="wt-icon"><svg xmlns="https://www.sekindo.id/" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle fill="transparent" cx="12" cy="12" r="10"/></svg></span>Loading
